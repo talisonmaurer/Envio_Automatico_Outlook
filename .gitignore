@@ -1,0 +1,7 @@
+destinatarios.csv
+historico_envios.csv
+documentos/
+__pycache__/
+*.pyc
+.env
+*.log
